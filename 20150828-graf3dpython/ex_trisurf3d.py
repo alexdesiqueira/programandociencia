@@ -15,13 +15,18 @@ Support material for the blog post "Three-dimensional plots on Python
 * Para citar esse material, por favor utilize a referência abaixo:
 DE SIQUEIRA, Alexandre Fioravante. Gráficos tridimensionais no Python
 [PARTE I]. Campinas: Programando Ciência, 28 de agosto de 2015.
-Disponível em: <URL> Acesso em: <DATA DE ACESSO>.
+Disponível em:
+http://programandociencia.com/2015/08/28/
+graficos-tridimensionais-no-python-parte-i-three-dimensional-plots-on-python-part-i/.
+Acesso em: <DATA DE ACESSO>.
 
 * In order to cite this material, please use the reference below
 (this is a Chicago-like style):
 de Siqueira, Alexandre Fioravante. “Three-dimensional plots on Python
-[PART I]”. Programando Ciência. 2015, August 28. Access date:
-<ACCESS DATE>. Available at <URL>.
+[PART I]”. Programando Ciência. 2015, August 28. Available at
+http://programandociencia.com/2015/08/28/
+graficos-tridimensionais-no-python-parte-i-three-dimensional-plots-on-python-part-i/.
+Access date: <ACCESS DATE>.
 
 Copyright (C) Alexandre Fioravante de Siqueira
 
