@@ -1,3 +1,38 @@
+"""
+SCATTER_ADVANCED.PY
+
+Support material for the blog post "Working with Spyder", on Programando
+Ciência.
+
+* Author: Alexandre 'Jaguar' Fioravante de Siqueira
+* Contact: http://www.programandociencia.com/about/
+* Support material:
+    http://www.github.com/alexandrejaguar/programandociencia
+
+* In order to cite this material, please use the reference below
+(this is a Chicago-like style):
+de Siqueira, Alexandre Fioravante. "Complex scatter plots on Python
+[Part I] - Obtaining data and creating a preliminary plot". Programando
+Ciência. 2016, May 08. Available at
+http://www.programandociencia.com/2016/05/08/complex-scatter-plots-on-python-part-i-obtaining-data-and-creating-a-preliminary-plot/.
+Access date: <ACCESS DATE>.
+
+Copyright (C) Alexandre Fioravante de Siqueira
+
+This program is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option)
+any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
+FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
+more details.
+
+You should have received a copy of the GNU General Public License along
+with this program. If not, see <http://www.gnu.org/licenses/>.
+"""
+
 # importing necessary packages.
 import matplotlib.lines as mlines
 import matplotlib.pyplot as plt
